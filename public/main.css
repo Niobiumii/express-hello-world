@@ -6,11 +6,6 @@ body {
   font-weight: 700;
 }
 
-#hello-wrapper {
-  color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
 .typewriter {
   border-right: solid 5px transparent;
   white-space: nowrap;
